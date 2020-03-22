@@ -72,7 +72,7 @@ Negli aggiornamenti di questa settimana, riportiamo:
 <!-- This is left-side text 2 -->
 # [Risorse sul COVID-19](https://nextstrain.org/ncov/2020-03-20)
 Abbiamo preparato alcune letture che possono essere utili per familiarizzare con il COVID-19 e il virus che ne è la causa, il SARS-CoV-2.
-Queste informazioni faciliteranno l'interpretazione dei dati che presentiamo in questo rapporto; se non hai familiarità con gli alberi filogenetici, ti consigliamo di leggere il testo 'Come leggere gli alberi filogenetici'(https://nextstrain.org/narratives/trees-background/it) e riprendere da qui in seguito.
+Queste informazioni faciliteranno l'interpretazione dei dati che presentiamo in questo rapporto; se non hai familiarità con gli alberi filogenetici, ti consigliamo di leggere il testo ['Come leggere gli alberi filogenetici'](https://nextstrain.org/narratives/trees-background/it) e riprendere da qui in seguito.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -189,7 +189,6 @@ Qui sotto trovate un esperimento concettuale che mostra come ciò si sia verific
 Queste nuove epidemie, a loro volta, potrebbero causare ulteriori introduzioni in altre località.
 
 <img src="https://github.com/nextstrain/ncov/raw/master/figures/local-spark-expansion.jpeg" width="70%">
-
 
 ```
 
