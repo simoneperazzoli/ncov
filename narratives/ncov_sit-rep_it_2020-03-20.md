@@ -1,4 +1,4 @@
-﻿---
+---
 title: Analisi genomica della diffusione del COVID-19. Rapporto sulla situazione aggiornato al 20 marzo 2020.
 authors:
   - Emma Hodcroft
