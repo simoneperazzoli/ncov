@@ -80,7 +80,7 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 ## 背景
 
 <div>
-  <a href="https://nextstrain.org/help/coronavirus/human-CoV"><img alt="microscopy image of coronaviruses" width="100" src="https://nextstrain.org/static/ncov_narrative-76cfd610d11ef708d213a3170de9519f.png"/> [COVID-19 に関する資料] </a>.
+  <a href="https://nextstrain.org/help/coronavirus/human-CoV"><img alt="microscopy image of coronaviruses" width="100" src="https://nextstrain.org/static/ncov_narrative-76cfd610d11ef708d213a3170de9519f.png"/> COVID-19 に関する資料 </a>
 
   <a href="https://nextstrain.org/help/coronavirus/SARS-CoV-2"><img alt="illustration of a coronavirus" width="100" src="http://data.nextstrain.org/img_nCoV-CDC.jpg"/> 最近の COVID-19 流行の背景 </a>
 
@@ -241,7 +241,7 @@ COVID-19 が突然爆発したように見えるかもしれません。
 ```auspiceMainDisplayMarkdown
 ## 社会的距離の維持は、すべての新しい症例を一晩で止めるわけではありませんが、時間の経過とともに症例数と死亡者数を大幅に減少させます
 社会的距離、つまり毎日出会う人の数を減らすことは困難な場合がありますが、公共の利益にとって非常に有益です。  
- もし全員が毎日の接触数を25％減らすと、来月の累積症例数は50％減ると予想されます。（Klein et al., 2020-03-13）(https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf))
+ もし全員が毎日の接触数を25％減らすと、来月の累積症例数は50％減ると予想されます。([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf))
 <div>
   <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
