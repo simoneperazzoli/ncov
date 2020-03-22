@@ -1,5 +1,5 @@
 ---
-title:新型コロナウイルス拡散の遺伝的解析と状況報告2020-03-20.
+title: 新型コロナウイルス拡散の遺伝的解析と状況報告2020-03-20.
 authors:
   - Emma Hodcroft
   - Nicola Müller
@@ -18,16 +18,16 @@ authorLinks:
   - https://twitter.com/sidneymbell
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
-affiliations:"Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
+affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - Tomoyuki Nezu
   - Fengjun Zhang
 translatorLinks:
   - https://twitter.com/tommy_nezy
   - https://twitter.com/fengjun_zhang
-date:2020年3月20日
+date: 2020年3月20日
 dataset: "https://nextstrain.org/ncov/2020-03-20?legend=closed&d=map&legend=closed"
-abstract:このレポートでは、公開されているゲノム情報を使用して、COVID-19の広がりを追跡しています。これらのレポートは毎週更新されます。
+abstract: このレポートでは、公開されているゲノム情報を使用して、COVID-19の広がりを追跡しています。これらのレポートは毎週更新されます。
 ---
 <!-- Translators:Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
